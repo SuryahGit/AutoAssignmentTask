@@ -1,0 +1,376 @@
+2019-04-06 00:04:655 INFO  TestBase:114 - initialize webdriver 748842359
+2019-04-06 00:04:664 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 00:04:681 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 00:04:697 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 00:04:880 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 00:04:824 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 00:04:749 INFO  WaitHelper:157 - element is visible now
+2019-04-06 00:04:750 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 00:04:744 INFO  TestBase:60 - **************testLoginToApplication Started***************
+2019-04-06 00:04:747 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 00:04:211 INFO  HomePage:39 - entering city name....London
+2019-04-06 00:04:486 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 00:04:894 INFO  TestBase:114 - initialize webdriver 748842359
+2019-04-06 00:04:906 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 00:04:923 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 00:04:939 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 00:04:137 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 00:04:468 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 00:04:504 INFO  WaitHelper:157 - element is visible now
+2019-04-06 00:04:505 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 00:04:267 INFO  TestBase:60 - **************testLoginToApplication Started***************
+2019-04-06 00:04:271 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 00:04:277 INFO  HomePage:39 - entering city name....London
+2019-04-06 00:04:227 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 01:04:279 INFO  TestBase:114 - initialize webdriver 748842359
+2019-04-06 01:04:283 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 01:04:289 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 01:04:295 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 01:04:453 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 01:04:272 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 01:04:312 INFO  WaitHelper:157 - element is visible now
+2019-04-06 01:04:312 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 01:04:983 INFO  TestBase:60 - **************testLoginToApplication Started***************
+2019-04-06 01:04:987 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 01:04:945 INFO  HomePage:48 - entering city name....London
+2019-04-06 01:04:126 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 01:04:596 INFO  TestBase:114 - initialize webdriver 748842359
+2019-04-06 01:04:607 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 01:04:625 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 01:04:640 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 01:04:840 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 01:04:590 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 01:04:630 INFO  WaitHelper:157 - element is visible now
+2019-04-06 01:04:630 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 01:04:257 INFO  TestBase:60 - **************testLoginToApplication Started***************
+2019-04-06 01:04:263 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 01:04:302 INFO  HomePage:48 - entering city name....London
+2019-04-06 01:04:560 INFO  HomePage:54 - Clicked on the Search Button
+2019-04-06 01:04:969 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 11:04:323 INFO  TestBase:114 - initialize webdriver 2112233878
+2019-04-06 11:04:378 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 11:04:385 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 11:04:391 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 11:04:575 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 11:04:944 INFO  TestBase:60 - **************testLoginToApplication Started***************
+2019-04-06 11:04:59 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 11:04:990 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 11:04:80 INFO  TestBase:114 - initialize webdriver 873309260
+2019-04-06 11:04:80 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 11:04:84 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 11:04:88 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 11:04:454 INFO  TestBase:114 - initialize webdriver 2112233878
+2019-04-06 11:04:457 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 11:04:463 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 11:04:468 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 11:04:623 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 11:04:537 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 11:04:482 INFO  TestBase:60 - **************testLoginToApplication Started***************
+2019-04-06 11:04:577 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 11:04:34 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 11:04:148 INFO  TestBase:114 - initialize webdriver 691691381
+2019-04-06 11:04:149 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 11:04:152 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 11:04:155 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 11:04:278 INFO  TestBase:114 - initialize webdriver 1893960929
+2019-04-06 11:04:289 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 11:04:306 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 11:04:322 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 11:04:487 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 11:04:970 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 11:04:05 INFO  WaitHelper:157 - element is visible now
+2019-04-06 11:04:05 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 11:04:688 INFO  TestBase:60 - **************testLoginToApplication Started***************
+2019-04-06 11:04:692 INFO  HomePage:42 - Clicked on the cookies Accept Button
+2019-04-06 11:04:773 INFO  HomePage:48 - entering city name....London
+2019-04-06 11:04:939 INFO  HomePage:54 - Clicked on the Search Button
+2019-04-06 11:04:612 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 11:04:745 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 11:04:745 INFO  TestBase:124 - driver is null
+2019-04-06 11:04:746 INFO  TestBase:60 - **************testLoginToApplication Started***************
+2019-04-06 11:04:754 INFO  TestBase:124 - driver is null
+2019-04-06 11:04:802 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 11:04:927 INFO  TestBase:114 - initialize webdriver 1893960929
+2019-04-06 11:04:939 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 11:04:955 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 11:04:971 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 11:04:138 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 11:04:723 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 11:04:757 INFO  WaitHelper:157 - element is visible now
+2019-04-06 11:04:757 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 11:04:429 INFO  TestBase:60 - **************testLoginToApplication Started***************
+2019-04-06 11:04:429 INFO  HomePage:42 - Clicked on the cookies Accept Button
+2019-04-06 11:04:561 INFO  HomePage:48 - entering city name....London
+2019-04-06 11:04:696 INFO  HomePage:54 - Clicked on the Search Button
+2019-04-06 11:04:777 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 11:04:440 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 11:04:441 INFO  TestBase:124 - driver is null
+2019-04-06 11:04:442 INFO  TestBase:60 - **************testLoginToApplication Started***************
+2019-04-06 11:04:451 INFO  TestBase:124 - driver is null
+2019-04-06 11:04:519 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 12:04:140 INFO  TestBase:114 - initialize webdriver 1893960929
+2019-04-06 12:04:147 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 12:04:159 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 12:04:169 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 12:04:398 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 12:04:223 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 12:04:460 INFO  WaitHelper:157 - element is visible now
+2019-04-06 12:04:463 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 12:04:623 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 12:04:601 INFO  TestBase:60 - **************testSearchCity Started***************
+2019-04-06 12:04:608 INFO  HomePage:42 - Clicked on the cookies Accept Button
+2019-04-06 12:04:873 INFO  HomePage:48 - entering city name....London
+2019-04-06 12:04:368 INFO  HomePage:54 - Clicked on the Search Button
+2019-04-06 12:04:140 INFO  TestBase:60 - **************testLoginToApplication Started***************
+2019-04-06 12:04:144 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 12:04:145 INFO  TestBase:124 - driver is null
+2019-04-06 12:04:155 INFO  TestBase:124 - driver is null
+2019-04-06 12:04:246 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 12:04:808 INFO  TestBase:114 - initialize webdriver 1893960929
+2019-04-06 12:04:820 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 12:04:845 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 12:04:871 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 12:04:107 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 12:04:289 INFO  TestBase:114 - initialize webdriver 1893960929
+2019-04-06 12:04:300 INFO  WaitHelper:36 - ImplicitWait has been set to :5
+2019-04-06 12:04:323 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 12:04:350 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 12:04:620 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 12:04:548 INFO  TestBase:114 - initialize webdriver 1893960929
+2019-04-06 12:04:555 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 12:04:567 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 12:04:580 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 12:04:814 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 12:04:967 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 12:04:27 INFO  WaitHelper:157 - element is visible now
+2019-04-06 12:04:27 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 12:04:696 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 12:04:502 INFO  TestBase:60 - **************testSearchCity Started***************
+2019-04-06 12:04:508 INFO  HomePage:42 - Clicked on the cookies Accept Button
+2019-04-06 12:04:745 INFO  HomePage:48 - entering city name....London
+2019-04-06 12:04:192 INFO  HomePage:54 - Clicked on the Search Button
+2019-04-06 12:04:406 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 12:04:512 INFO  TestBase:60 - **************proertySearch Started***************
+2019-04-06 12:04:515 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 12:04:622 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 13:04:587 INFO  TestBase:114 - initialize webdriver 748842359
+2019-04-06 13:04:600 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 13:04:620 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 13:04:643 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 13:04:848 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 13:04:687 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 13:04:861 INFO  WaitHelper:157 - element is visible now
+2019-04-06 13:04:865 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:882 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:857 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:782 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:799 INFO  TestBase:60 - **************testSearchCity Started***************
+2019-04-06 13:04:817 INFO  HomePage:42 - Clicked on the cookies Accept Button
+2019-04-06 13:04:140 INFO  HomePage:48 - entering city name....London
+2019-04-06 13:04:543 INFO  HomePage:54 - Clicked on the Search Button
+2019-04-06 13:04:948 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:172 INFO  TestBase:114 - initialize webdriver 748842359
+2019-04-06 13:04:184 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 13:04:217 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 13:04:243 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 13:04:462 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 13:04:829 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 13:04:980 INFO  WaitHelper:157 - element is visible now
+2019-04-06 13:04:982 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:834 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:626 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:650 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:653 INFO  TestBase:60 - **************testSearchCity Started***************
+2019-04-06 13:04:662 INFO  HomePage:42 - Clicked on the cookies Accept Button
+2019-04-06 13:04:869 INFO  HomePage:48 - entering city name....London
+2019-04-06 13:04:231 INFO  HomePage:54 - Clicked on the Search Button
+2019-04-06 13:04:493 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:644 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:433 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 13:04:413 INFO  TestBase:114 - initialize webdriver 748842359
+2019-04-06 13:04:426 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 13:04:446 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 13:04:466 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 13:04:718 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 13:04:824 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 13:04:880 INFO  WaitHelper:157 - element is visible now
+2019-04-06 13:04:880 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:832 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:748 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:728 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:648 INFO  TestBase:60 - **************testSearchCity Started***************
+2019-04-06 13:04:648 INFO  HomePage:42 - Clicked on the cookies Accept Button
+2019-04-06 13:04:881 INFO  HomePage:48 - entering city name....London
+2019-04-06 13:04:243 INFO  HomePage:54 - Clicked on the Search Button
+2019-04-06 13:04:903 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:617 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:155 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 13:04:998 INFO  AssertionHelper:12 - Verifying test Purplebricks, Head Office with Purplebricks, Head Office
+2019-04-06 13:04:02 INFO  AssertionHelper:12 - Verifying test Nationwide Estate Agent, Head Office: Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull, B90 4RZ with Nationwide Estate Agent, Head Office: Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull, B90 4RZ
+2019-04-06 13:04:101 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:813 INFO  TestBase:114 - initialize webdriver 748842359
+2019-04-06 14:04:819 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:830 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 14:04:844 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 14:04:60 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 14:04:321 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 14:04:385 INFO  WaitHelper:157 - element is visible now
+2019-04-06 14:04:391 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 14:04:316 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 14:04:116 INFO  TestBase:60 - **************testSearchCity Started***************
+2019-04-06 14:04:123 INFO  HomePage:41 - Clicked on the cookies Accept Button
+2019-04-06 14:04:267 INFO  HomePage:47 - entering city name....London
+2019-04-06 14:04:618 INFO  HomePage:53 - Clicked on the Search Button
+2019-04-06 14:04:863 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 14:04:134 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 14:04:324 INFO  AssertionHelper:12 - Verifying test Purplebricks, Head Office with Purplebricks, Head Office
+2019-04-06 14:04:337 INFO  AssertionHelper:12 - Verifying test Nationwide Estate Agent, Head Office: Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull, B90 4RZ with Nationwide Estate Agent, Head Office: Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull, B90 4RZ
+2019-04-06 14:04:381 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:761 INFO  TestBase:114 - initialize webdriver 748842359
+2019-04-06 14:04:769 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:793 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 14:04:818 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 14:04:61 INFO  TestBase:161 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 14:04:294 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 14:04:357 INFO  WaitHelper:157 - element is visible now
+2019-04-06 14:04:360 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 14:04:563 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 14:04:446 INFO  TestBase:60 - **************testSearchCity Started***************
+2019-04-06 14:04:465 INFO  HomePage:41 - Clicked on the cookies Accept Button
+2019-04-06 14:04:621 INFO  HomePage:47 - entering city name....London
+2019-04-06 14:04:943 INFO  HomePage:53 - Clicked on the Search Button
+2019-04-06 14:04:499 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 14:04:591 INFO  TestBase:146 - Capturing UI navigation screen...
+2019-04-06 14:04:130 INFO  AssertionHelper:12 - Verifying test Purplebricks, Head Office with Purplebricks, Head Office
+2019-04-06 14:04:141 INFO  AssertionHelper:12 - Verifying test Nationwide Estate Agent, Head Office: Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull, B90 4RZ with Nationwide Estate Agent, Head Office: Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull, B90 4RZ
+2019-04-06 14:04:153 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:717 INFO  TestBase:116 - initialize webdriver 748842359
+2019-04-06 14:04:722 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:734 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 14:04:747 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 14:04:993 INFO  TestBase:163 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 14:04:156 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 14:04:250 INFO  WaitHelper:157 - element is visible now
+2019-04-06 14:04:283 INFO  TestBase:60 - **************testSearchCity Started***************
+2019-04-06 14:04:293 INFO  HomePage:41 - Clicked on the cookies Accept Button
+2019-04-06 14:04:619 INFO  HomePage:47 - entering city name....London
+2019-04-06 14:04:59 INFO  HomePage:53 - Clicked on the Search Button
+2019-04-06 14:04:531 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:715 INFO  TestBase:116 - initialize webdriver 748842359
+2019-04-06 14:04:729 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:746 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 14:04:765 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 14:04:986 INFO  TestBase:163 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 14:04:638 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 14:04:748 INFO  WaitHelper:157 - element is visible now
+2019-04-06 14:04:780 INFO  TestBase:60 - **************testSearchCity Started***************
+2019-04-06 14:04:796 INFO  HomePage:41 - Clicked on the cookies Accept Button
+2019-04-06 14:04:151 INFO  HomePage:47 - entering city name....London
+2019-04-06 14:04:740 INFO  HomePage:53 - Clicked on the Search Button
+2019-04-06 14:04:984 INFO  TestBase:116 - initialize webdriver 748842359
+2019-04-06 14:04:998 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:18 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 14:04:41 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 14:04:276 INFO  TestBase:163 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 14:04:271 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 14:04:358 INFO  WaitHelper:157 - element is visible now
+2019-04-06 14:04:385 INFO  TestBase:60 - **************testSearchCity Started***************
+2019-04-06 14:04:393 INFO  HomePage:41 - Clicked on the cookies Accept Button
+2019-04-06 14:04:575 INFO  HomePage:47 - entering city name....London
+2019-04-06 14:04:829 INFO  HomePage:53 - Clicked on the Search Button
+2019-04-06 14:04:151 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:62 INFO  TestBase:116 - initialize webdriver 748842359
+2019-04-06 14:04:75 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:97 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 14:04:111 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 14:04:320 INFO  TestBase:163 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 14:04:312 INFO  TestBase:116 - initialize webdriver 748842359
+2019-04-06 14:04:329 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:363 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 14:04:392 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 14:04:653 INFO  TestBase:163 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 14:04:146 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 14:04:246 INFO  WaitHelper:157 - element is visible now
+2019-04-06 14:04:255 INFO  JavaScriptHelper:17 - java Script helper has been initialized
+2019-04-06 14:04:274 INFO  TestBase:60 - **************testSearchCity Started***************
+2019-04-06 14:04:274 INFO  HomePage:41 - Clicked on the cookies Accept Button
+2019-04-06 14:04:503 INFO  HomePage:47 - entering city name....London
+2019-04-06 14:04:929 INFO  HomePage:53 - Clicked on the Search Button
+2019-04-06 14:04:112 INFO  JavaScriptHelper:17 - java Script helper has been initialized
+2019-04-06 14:04:602 INFO  JavaScriptHelper:49 - scroll to Webelement
+2019-04-06 14:04:241 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:847 INFO  TestBase:116 - initialize webdriver 748842359
+2019-04-06 14:04:856 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:884 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 14:04:911 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 14:04:147 INFO  TestBase:163 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 14:04:69 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 14:04:209 INFO  WaitHelper:157 - element is visible now
+2019-04-06 14:04:229 INFO  JavaScriptHelper:17 - java Script helper has been initialized
+2019-04-06 14:04:282 INFO  TestBase:60 - **************testSearchCity Started***************
+2019-04-06 14:04:297 INFO  HomePage:41 - Clicked on the cookies Accept Button
+2019-04-06 14:04:665 INFO  HomePage:47 - entering city name....London
+2019-04-06 14:04:241 INFO  HomePage:53 - Clicked on the Search Button
+2019-04-06 14:04:962 INFO  JavaScriptHelper:17 - java Script helper has been initialized
+2019-04-06 14:04:423 INFO  WaitHelper:79 - waiting for :[[ChromeDriver: chrome on XP (c1be86dc800d197697304ac5b6179b59)] -> xpath: //*[@class='srp clearfix   ']/div/div[2]/a] for :10 seconds
+2019-04-06 14:04:492 INFO  WaitHelper:82 - element is clickable now
+2019-04-06 14:04:529 INFO  JavaScriptHelper:49 - scroll to Webelement
+2019-04-06 14:04:235 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:764 INFO  TestBase:116 - initialize webdriver 748842359
+2019-04-06 14:04:770 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 14:04:795 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 14:04:824 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 14:04:77 INFO  TestBase:163 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 14:04:22 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 14:04:104 INFO  WaitHelper:157 - element is visible now
+2019-04-06 14:04:114 INFO  JavaScriptHelper:17 - java Script helper has been initialized
+2019-04-06 14:04:136 INFO  TestBase:60 - **************testSearchCity Started***************
+2019-04-06 14:04:141 INFO  HomePage:41 - Clicked on the cookies Accept Button
+2019-04-06 14:04:350 INFO  HomePage:47 - entering city name....London
+2019-04-06 14:04:735 INFO  HomePage:53 - Clicked on the Search Button
+2019-04-06 14:04:452 INFO  JavaScriptHelper:17 - java Script helper has been initialized
+2019-04-06 14:04:134 INFO  AssertionHelper:12 - Verifying test Purplebricks, Head Office with Purplebricks, Head Office
+2019-04-06 14:04:140 INFO  AssertionHelper:12 - Verifying test Nationwide Estate Agent, Head Office: Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull, B90 4RZ with Nationwide Estate Agent, Head Office: Suite 7, First Floor, Cranmore Place, Cranmore Drive, Shirley, Solihull, B90 4RZ
+2019-04-06 14:04:810 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 15:04:493 INFO  TestBase:116 - initialize webdriver 748842359
+2019-04-06 15:04:504 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 15:04:517 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 15:04:522 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 15:04:797 INFO  TestBase:163 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 15:04:153 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 15:04:244 INFO  WaitHelper:157 - element is visible now
+2019-04-06 15:04:261 INFO  TestBase:60 - **************testSearchCity Started***************
+2019-04-06 15:04:286 INFO  HomePage:41 - Clicked on the cookies Accept Button
+2019-04-06 15:04:480 INFO  HomePage:47 - entering city name....London
+2019-04-06 15:04:837 INFO  HomePage:53 - Clicked on the Search Button
+2019-04-06 15:04:280 INFO  PropertSearchResultPage:36 - Printing Price in DescendingOrder
+2019-04-06 15:04:152 INFO  PropertSearchResultPage:57 - Cliking the 5th Property
+2019-04-06 15:04:987 INFO  PropertiesDetailsPage:35 - Agent Name is Peter James
+2019-04-06 15:04:203 INFO  PropertiesDetailsPage:43 - Agent Address is 1 Stratheden Parade, London, SE3 7SX
+2019-04-06 15:04:332 INFO  PropertiesDetailsPage:51 - clicking on the properties details page link 
+2019-04-06 15:04:527 INFO  AgentDetailsPage:34 - Agent Name is Peter James
+2019-04-06 15:04:816 INFO  AgentDetailsPage:41 - Agent address is 1 Stratheden Parade, London, SE3 7SX
+2019-04-06 15:04:940 INFO  AssertionHelper:12 - Verifying test Peter James with Peter James
+2019-04-06 15:04:940 INFO  AssertionHelper:12 - Verifying test 1 Stratheden Parade, London, SE3 7SX with 1 Stratheden Parade, London, SE3 7SX
+2019-04-06 15:04:618 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 15:04:74 INFO  TestBase:116 - initialize webdriver 748842359
+2019-04-06 15:04:251 INFO  WaitHelper:36 - ImplicitWait has been set to :10
+2019-04-06 15:04:360 INFO  WaitHelper:148 - Waiting for page to load for :15 seconds
+2019-04-06 15:04:376 INFO  WaitHelper:150 - Page is loaded
+2019-04-06 15:04:752 INFO  TestBase:163 - Navigating Url is https://www.zoopla.co.uk/
+2019-04-06 15:04:152 INFO  WaitHelper:154 - waiting for :Sign in for :10 seconds
+2019-04-06 15:04:248 INFO  WaitHelper:157 - element is visible now
+2019-04-06 15:04:264 INFO  TestBase:60 - **************testSearchCity Started***************
+2019-04-06 15:04:264 INFO  HomePage:41 - Clicked on the cookies Accept Button
+2019-04-06 15:04:375 INFO  HomePage:47 - entering city name....London
+2019-04-06 15:04:516 INFO  HomePage:53 - Clicked on the Search Button
+2019-04-06 15:04:519 INFO  PropertSearchResultPage:36 - Printing Price in DescendingOrder
+2019-04-06 15:04:493 INFO  PropertSearchResultPage:57 - Cliking the 5th Property
+2019-04-06 15:04:450 INFO  PropertiesDetailsPage:35 - Properties Details Page Agent Name is Toomey Estate Agents
+2019-04-06 15:04:570 INFO  PropertiesDetailsPage:43 - Properties Details Page Agent Address is 333a London Road, Mitcham, Surrey, CR4 4BE
+2019-04-06 15:04:626 INFO  PropertiesDetailsPage:51 - clicking on the properties details page link 
+2019-04-06 15:04:57 INFO  AgentDetailsPage:34 - Agent Details Page Agent Name is Toomey Estate Agents
+2019-04-06 15:04:155 INFO  AgentDetailsPage:41 - Agent Details Page Agent address is 333a London Road, Mitcham, Surrey, CR4 4BE
+2019-04-06 15:04:215 INFO  AssertionHelper:12 - Verifying test Toomey Estate Agents with Toomey Estate Agents
+2019-04-06 15:04:215 INFO  AssertionHelper:12 - Verifying test 333a London Road, Mitcham, Surrey, CR4 4BE with 333a London Road, Mitcham, Surrey, CR4 4BE
+2019-04-06 15:04:729 INFO  WaitHelper:36 - ImplicitWait has been set to :10

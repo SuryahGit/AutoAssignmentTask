@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test]">
+  <test thread-count="5" name="Agent Name and Address Verify Test(failed)">
+    <classes>
+      <class name="com.NaveenAutomationLabsTask.testScripts.testCases.TestCase_001_AgentNameVerification">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="beforeSuite"/>
+          <include name="afterMthod"/>
+          <include name="testSearchCity"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.NaveenAutomationLabsTask.testScripts.testCases.TestCase_001_AgentNameVerification -->
+    </classes>
+  </test> <!-- Agent Name and Address Verify Test(failed) -->
+</suite> <!-- Failed suite [All Test] -->

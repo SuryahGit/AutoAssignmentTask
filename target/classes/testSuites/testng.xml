@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test">
+	<test name="Agent Name and Address Verify Test">
+		<classes>
+			<class
+				name="com.NaveenAutomationLabsTask.testScripts.testCases.TestCase_001_AgentNameVerification" />
+		</classes>
+	</test>
+</suite> 
